@@ -1,0 +1,10 @@
+from socket import *
+s = socket(AF_INET, SOCK_STREAM)
+s.connect(('localhost', 6789))
+get = 'GET /hello.html HTTP/1.0\n\n'
+s.send(str(get))
+data = s.recv(10000)
+
+print(data)
+
+s.close()
