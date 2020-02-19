@@ -4,7 +4,6 @@
 	Fall 2019
 
 	Author: Mek Obchey
-	Student #: V00880355
 
 */
 
