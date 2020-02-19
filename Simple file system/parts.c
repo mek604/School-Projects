@@ -11,7 +11,6 @@
 #include <libgen.h>
 /*
 	Author: Mek Obchey
-	Student#: V00880355
 	CSC 360 A01
 	Fall 2019
 	
