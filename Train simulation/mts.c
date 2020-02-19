@@ -1,8 +1,7 @@
 /*
 
 Author: Mek Obchey
-V00880355
-CSC 360 Assignment 2
+CSC 360 A2
 Simple Train Simulator with Threads
 */
 
