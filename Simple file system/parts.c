@@ -11,7 +11,6 @@
 #include <libgen.h>
 /*
 	Author: Mek Obchey
-	CSC 360 A01
 	Fall 2019
 	
 	Assignment 3 - A simple file system
